@@ -16,7 +16,7 @@ Resources:
   TodoTable:
     Type: AWS::Serverless::SimpleTable
     Properties:
-      TableName: TodoItems
+      TableName: TodoIt240810
       PrimaryKey:
         Name: id
         Type: String
